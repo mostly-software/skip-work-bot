@@ -12,8 +12,8 @@ HUMIDITY_THRESHOLD = 0
 CREATIVITY = 0.7 ## number between 0-2. Lower tends to be a more formal email and higher is more relaxed and gramatically loose
 BOSS_NAME='Manager Boss'
 MY_NAME='Good Employee'
-SENDER='software.mostly@gmail.com'
-RECEIVER='software.mostly@gmail.com'
+SENDER='Sending Email'
+RECEIVER='Receiving Email'
 EMAIL_AUTH='Email Key'
 ai.api_key = "sk-Open AI Key"
 
